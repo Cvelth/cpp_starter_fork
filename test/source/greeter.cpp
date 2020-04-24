@@ -1,5 +1,4 @@
 #if defined(_WIN32) || defined(WIN32)
-// see https://github.com/onqtam/doctest/blob/master/doc/markdown/configuration.md#doctest_config_use_std_headers
 #  define DOCTEST_CONFIG_USE_STD_HEADERS
 #endif
 
